@@ -12,6 +12,7 @@ My purpose was to have the possibility to "count up" and "count down" to a targe
 
 # Video
 ![gif](./readme/example.gif)
+
 *Example without randomness*
 
 # How to
